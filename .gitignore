@@ -1,0 +1,28 @@
+# Compiled Executables and Object Files
+*.exe
+*.out
+*.app
+*.o
+*.obj
+
+# Binary Database File (Generated at runtime)
+vault.dat
+*.dat
+*.bin
+
+# VS Code Folder & User Configurations
+.vscode/
+*.vscode
+
+# Windows System / Explorer Artifacts
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Debug and Crash Dumps
+*.dSYM/
+*.suo
+*.user
+*.userosv
+*.sln.docstates
