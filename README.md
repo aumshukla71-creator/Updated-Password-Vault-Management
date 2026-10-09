@@ -36,6 +36,7 @@ PasswordVault/
 │   ├── SecureNote.h        # Derived secret note class
 │   ├── VaultManager.h      # Persistence controller & data manager
 │   └── Validator.h         # Input validation utility
+│   └── CryptoUtils.h       # Encrypts the sensitive inforamation
 ├── src/
 │   ├── LoginCredential.cpp
 │   ├── SecureNote.cpp
