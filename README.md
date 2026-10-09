@@ -1,4 +1,3 @@
-@@ -0,0 +1,45 @@
 # 🔐 Password Vault Manager (C++)
 
 A secure, console-based credential storage and security analysis tool built with **Object-Oriented Programming (OOP)** principles in C++. The project demonstrates runtime polymorphism, abstract data types, direct binary file serialization (`std::ios::binary`), and an automated security auditing engine.
